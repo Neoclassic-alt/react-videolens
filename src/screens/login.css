@@ -1,0 +1,19 @@
+.container {
+    background-color: #FAFAFA;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    display: inline-block;
+    background-color: #fff;
+    padding: 60px;
+    flex-grow: 0;
+    border: 1px solid #e6e6e6;
+}
+
+.login__title {
+    margin-bottom: 20px;
+}

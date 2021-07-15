@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "e-mail": "boris227@mail.ru",
+      "password": "12345678",
+      "savedQueries": [
+        {
+          "queryID": "7f8d024f-ffae-4884-8d16-0b28face7c45",
+          "keyword": "Slava Marlow",
+          "name": "Слава",
+          "order": "viewCount",
+          "maxResults": 16
+        }
+      ],
+      "token": "5766c653-e94a-47b3-8a4c-b4e5ad1e38d6"
+    },
+    {
+      "id": 2,
+      "e-mail": "alexcomsss@rambler.com",
+      "password": "666665",
+      "savedQueries": [
+        {
+          "queryID": "9446bd57-b9e4-474d-8bce-94912d1ed76d",
+          "keyword": "kokoronashi",
+          "name": "",
+          "maxResults": 12,
+          "order": "relevance"
+        }
+      ],
+      "token": null
+    }
+  ]
+}

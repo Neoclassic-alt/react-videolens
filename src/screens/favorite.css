@@ -1,0 +1,30 @@
+.favorites-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: calc(100vh - 135px)
+}
+
+.favorites-content__title {
+    margin-top: 40px;
+}
+
+.favorites-content__top {
+    margin-bottom: 5px;
+}
+
+.favorite {
+    background-color: white;
+    width: 80%;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.favorite__icon {
+    font-size: 24;
+}
+
+/*.edit-modal .ant-modal-footer {
+    display: none;
+}*/
